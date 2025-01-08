@@ -4,6 +4,11 @@
 # 💫 About Me:
 ARTIST AND RESEARCHER<br>I hold a PhD (Cum Laude) in Theoretical, Computational, and Applied Linguistics from the University of Barcelona. My research focuses on identifying discursive biases in the realm of art through the use of cutting-edge technologies for text and image analysis.
 
+## My Books
+
+| ![Image 1](https://github.com/johnrbto/johnrbto/blob/main/John_Roberto_book_ICC.jpg)<br>**Description 1** | ![Image 2](https://github.com/johnrbto/johnrbto/blob/main/john_roberto_book_digital_humanities_2020.jpg)<br>**Description 2** | ![Image 3](https://github.com/johnrbto/johnrbto/blob/main/john_roberto_book_language_learning_2018.jpg)<br>**Description 3** | ![Image 4](https://github.com/johnrbto/johnrbto/blob/main/John_Roberto_book_rizomatico.jpg)<br>**Description 4** |
+|-----------|-----------|-----------|-----------|
+| Project 1 | Project 2 | Project 3 | Project 4 |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnrbto.art) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnrbto) 
