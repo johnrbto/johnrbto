@@ -1,3 +1,4 @@
+![Banner](https://your-image-link.com/banner.jpg)
 ## Hi, I'm John Roberto 👋
 
 # 💫 About Me:
