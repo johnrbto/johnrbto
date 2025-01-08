@@ -1,4 +1,4 @@
-![Banner](https://github.com/johnrbto/johnrbto/blob/main/johnrbtobannergithub1.jpg)
+![Banner](https://github.com/johnrbto/johnrbto/blob/main/johnrbtobannergithub.jpg)
 ## Hi, I'm John Roberto 👋
 
 # 💫 About Me:
