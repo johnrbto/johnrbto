@@ -6,9 +6,15 @@ ARTIST AND RESEARCHER<br>I hold a PhD (Cum Laude) in Theoretical, Computational,
 
 ## My Books
 
-| ![Image 1](https://github.com/johnrbto/johnrbto/blob/main/John_Roberto_book_ICC.jpg)<br>**Description 1** | ![Image 2](https://github.com/johnrbto/johnrbto/blob/main/john_roberto_book_digital_humanities_2020.jpg)<br>**Description 2** | ![Image 3](https://github.com/johnrbto/johnrbto/blob/main/john_roberto_book_language_learning_2018.jpg)<br>**Description 3** | ![Image 4](https://github.com/johnrbto/johnrbto/blob/main/John_Roberto_book_rizomatico.jpg)<br>**Description 4** |
-|-----------|-----------|-----------|-----------|
-| Project 1 | Project 2 | Project 3 | Project 4 |
+<table><tr><td><img src="https://github.com/johnrbto/johnrbto/blob/main/John_Roberto_book_artexclusion.jpg" width="150" height="200" alt="Image 1"></td>
+  <td><img src="https://github.com/johnrbto/johnrbto/blob/main/John_Roberto_book_ICC.jpg" width="150" height="200" alt="Image 2"></td></tr></table>
+
+## My Book Chapters
+<table><tr><td><img src="https://github.com/johnrbto/johnrbto/blob/main/john_roberto_book_digital_humanities_2020.jpg" width="150" height="200" alt="Image 3"></td>
+  <td><img src="https://github.com/johnrbto/johnrbto/blob/main/john_roberto_book_language_learning_2018.jpg" width="150" height="200" alt="Image 4"></td>
+  <td><img src="https://github.com/johnrbto/johnrbto/blob/main/John_Roberto_book_rizomatico.jpg" width="150" height="200" alt="Image 5"></td>
+  <td><img src="https://github.com/johnrbto/johnrbto/blob/main/John_Roberto_book_outsider.jpg" width="150" height="200" alt="Image 6"></td>
+  <td><img src="https://github.com/johnrbto/johnrbto/blob/main/John_Roberto_book_immigration.jpg" width="150" height="200" alt="Image 7"></td></tr></table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnrbto.art) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnrbto) 
